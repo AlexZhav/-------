@@ -241,8 +241,8 @@ header {
 }
 
 #nav-menu a:hover {
-    background: #ffffff30;
-    color: #ffde59;
+    background: blue;
+    color: red;
     transform: translateY(-5px);
 }
 
